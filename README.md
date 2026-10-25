@@ -17,7 +17,7 @@ SmyVolt is a collection of my electrical engineering work. Each project has its 
 
 | Project | Area | Description |
 |---------|------|-------------|
-| [Balanced_Three-Phase_Analyser](circuit_analysis) | Power systems | Solves balanced three-phase circuits with wye and delta loads, giving phase current, power (S, P, Q), power factor and a voltage/current plot |
+| [Balanced Three-Phase Analyser](circuit_analysis) | Power systems | Solves balanced three-phase circuits with wye and delta loads, giving phase current, power (S, P, Q), power factor and a voltage/current plot |
 
 More projects will be added here as I finish them.
 
